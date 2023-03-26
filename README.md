@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OshMH
-- 👀 I’m interested in embedded software engineering, robotics and the link between hardware and software.
-- 🌱 I’m currently learning all things software engineering related, from agile methodology to register-level programming on microcontrollers
-- 💞️ I’m looking to collaborate on projects related to the quality of life, devices for healthcare, and all things embedded.
+- 👀 I have a strong interest in embedded software engineering, robotics and the interplay between hardware and software.
+- 🌱 Currently, I am expanding my knowledge of software engineering, which includes everything from agile methodology to programming bare-metal microncontrollers
+- 💞️ I am actively seeking collaborative projects related to enhancing quality of life, developing healthcare devices, and working on all types of embedded technology
 - 📫 How to reach me https://www.linkedin.com/in/osh-hettiarachchi-9965b6222/
 
 <!---
